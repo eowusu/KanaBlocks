@@ -1,2 +1,0 @@
-# KanaBlocks
-KanaBlocks Mobile Game
